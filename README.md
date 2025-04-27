@@ -1,3 +1,4 @@
+![logo](https://github.com/GiteshKumar7/Gitesh-Kumar/blob/main/Screenshot%202024-09-02%20110645.png)
 <h1 align="center">Hi 👋, I'm Gitesh Kumar</h1>
 <h3 align="center">A passionate Software Engineer from Nepal</h3>
 
